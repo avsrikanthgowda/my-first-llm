@@ -1,0 +1,313 @@
+{
+    "states": [
+      {
+        "name": "Andhra Pradesh",
+        "capital": "Amaravati",
+        "official_languages": ["Telugu", "Urdu", "Hindi"],
+        "area": "162968 km²",
+        "population": "49,577,103",
+        "facts": [
+          "Known for its rich cultural heritage and historical sites.",
+          "Famous for its cuisine, especially spicy food."
+        ]
+      },
+      {
+        "name": "Arunachal Pradesh",
+        "capital": "Itanagar",
+        "official_languages": ["English", "Hindi"],
+        "area": "83743 km²",
+        "population": "1,382,611",
+        "facts": [
+          "Home to the Tawang Monastery, one of the largest Buddhist monasteries in India.",
+          "Known for its biodiversity and vibrant tribal cultures."
+        ]
+      },
+      {
+        "name": "Assam",
+        "capital": "Dispur",
+        "official_languages": ["Assamese", "Bodo", "Hindi"],
+        "area": "78438 km²",
+        "population": "31,205,576",
+        "facts": [
+          "Famous for Assam tea and its silk industry.",
+          "Home to Kaziranga National Park, a UNESCO World Heritage site."
+        ]
+      },
+      {
+        "name": "Bihar",
+        "capital": "Patna",
+        "official_languages": ["Hindi", "Urdu"],
+        "area": "94163 km²",
+        "population": "104,099,452",
+        "facts": [
+          "Known for its rich history, being the birthplace of Buddhism.",
+          "Home to Nalanda University, one of the oldest universities in the world."
+        ]
+      },
+      {
+        "name": "Chhattisgarh",
+        "capital": "Raipur",
+        "official_languages": ["Hindi", "Chhattisgarhi"],
+        "area": "135191 km²",
+        "population": "25,545,198",
+        "facts": [
+          "Rich in minerals and natural resources.",
+          "Famous for its tribal culture and dance."
+        ]
+      },
+      {
+        "name": "Goa",
+        "capital": "Panaji",
+        "official_languages": ["Konkani", "Marathi", "English"],
+        "area": "3702 km²",
+        "population": "1,458,545",
+        "facts": [
+          "Known for its beautiful beaches and Portuguese heritage.",
+          "A popular tourist destination in India."
+        ]
+      },
+      {
+        "name": "Gujarat",
+        "capital": "Gandhinagar",
+        "official_languages": ["Gujarati", "Hindi"],
+        "area": "196024 km²",
+        "population": "60,439,692",
+        "facts": [
+          "Birthplace of Mahatma Gandhi, the leader of the Indian independence movement.",
+          "Famous for its handicrafts and textiles."
+        ]
+      },
+      {
+        "name": "Haryana",
+        "capital": "Chandigarh",
+        "official_languages": ["Hindi", "Punjabi"],
+        "area": "44212 km²",
+        "population": "25,353,081",
+        "facts": [
+          "Known for its agricultural productivity.",
+          "A hub for sports and fitness in India."
+        ]
+      },
+      {
+        "name": "Himachal Pradesh",
+        "capital": "Shimla",
+        "official_languages": ["Hindi", "English"],
+        "area": "55673 km²",
+        "population": "7,451,955",
+        "facts": [
+          "Famous for its scenic landscapes and hill stations.",
+          "Home to several trekking routes and adventure sports."
+        ]
+      },
+      {
+        "name": "Jharkhand",
+        "capital": "Ranchi",
+        "official_languages": ["Hindi", "Santali"],
+        "area": "79716 km²",
+        "population": "32,988,134",
+        "facts": [
+          "Rich in minerals and forest resources.",
+          "Known for its cultural diversity and tribal population."
+        ]
+      },
+      {
+        "name": "Karnataka",
+        "capital": "Bengaluru",
+        "official_languages": ["Kannada", "English"],
+        "area": "191791 km²",
+        "population": "61,095,297",
+        "facts": [
+          "Known as the Silicon Valley of India due to its booming IT industry.",
+          "Famous for its gardens, palaces, and rich cultural heritage."
+        ]
+      },
+      {
+        "name": "Kerala",
+        "capital": "Thiruvananthapuram",
+        "official_languages": ["Malayalam", "English"],
+        "area": "38863 km²",
+        "population": "33,406,061",
+        "facts": [
+          "Known for its backwaters and ayurvedic treatments.",
+          "Famous for its diverse wildlife and biodiversity."
+        ]
+      },
+      {
+        "name": "Madhya Pradesh",
+        "capital": "Bhopal",
+        "official_languages": ["Hindi"],
+        "area": "308350 km²",
+        "population": "72,626,809",
+        "facts": [
+          "Known for its rich history and heritage sites.",
+          "Home to the famous Khajuraho temples."
+        ]
+      },
+      {
+        "name": "Maharashtra",
+        "capital": "Mumbai",
+        "official_languages": ["Marathi", "Hindi"],
+        "area": "307713 km²",
+        "population": "112,374,333",
+        "facts": [
+          "Home to Bollywood, the Hindi film industry.",
+          "Known for its diverse culture and cuisine."
+        ]
+      },
+      {
+        "name": "Manipur",
+        "capital": "Imphal",
+        "official_languages": ["Manipuri", "Hindi"],
+        "area": "22327 km²",
+        "population": "2,855,794",
+        "facts": [
+          "Known for its classical dance forms and vibrant culture.",
+          "Home to the Loktak Lake, the largest freshwater lake in India."
+        ]
+      },
+      {
+        "name": "Meghalaya",
+        "capital": "Shillong",
+        "official_languages": ["English", "Khasi"],
+        "area": "22429 km²",
+        "population": "2,966,889",
+        "facts": [
+          "Known for its high rainfall and scenic landscapes.",
+          "Home to the living root bridges."
+        ]
+      },
+      {
+        "name": "Mizoram",
+        "capital": "Aizawl",
+        "official_languages": ["Mizo", "English"],
+        "area": "21081 km²",
+        "population": "1,097,206",
+        "facts": [
+          "Known for its picturesque hills and vibrant culture.",
+          "Famous for bamboo dances and festivals."
+        ]
+      },
+      {
+        "name": "Nagaland",
+        "capital": "Kohima",
+        "official_languages": ["English", "Hindi"],
+        "area": "16338 km²",
+        "population": "2,200,000",
+        "facts": [
+          "Home to various indigenous tribes with unique cultures.",
+          "Famous for its annual Hornbill Festival."
+        ]
+      },
+      {
+        "name": "Odisha",
+        "capital": "Bhubaneswar",
+        "official_languages": ["Odia"],
+        "area": "155707 km²",
+        "population": "41,974,218",
+        "facts": [
+          "Known for its classical dance forms and ancient temples.",
+          "Home to the famous Jagannath Temple in Puri."
+        ]
+      },
+      {
+        "name": "Punjab",
+        "capital": "Chandigarh",
+        "official_languages": ["Punjabi", "Hindi"],
+        "area": "50362 km²",
+        "population": "27,743,338",
+        "facts": [
+          "Known for its agriculture and vibrant culture.",
+          "Famous for its music, dance, and food."
+        ]
+      },
+      {
+        "name": "Rajasthan",
+        "capital": "Jaipur",
+        "official_languages": ["Hindi", "Rajasthani"],
+        "area": "342239 km²",
+        "population": "68,548,437",
+        "facts": [
+          "Known for its deserts, forts, and palaces.",
+          "Home to the Thar Desert and various wildlife sanctuaries."
+        ]
+      },
+      {
+        "name": "Sikkim",
+        "capital": "Gangtok",
+        "official_languages": ["English", "Nepali", "Sikkimese"],
+        "area": "7096 km²",
+        "population": "610,577",
+        "facts": [
+          "Known for its biodiversity and stunning landscapes.",
+          "Famous for the Kanchenjunga mountain range."
+        ]
+      },
+      {
+        "name": "Tamil Nadu",
+        "capital": "Chennai",
+        "official_languages": ["Tamil", "English"],
+        "area": "130058 km²",
+        "population": "72,147,030",
+        "facts": [
+          "Known for its classical music and dance forms.",
+          "Home to ancient temples and rich cultural heritage."
+        ]
+      },
+      {
+        "name": "Telangana",
+        "capital": "Hyderabad",
+        "official_languages": ["Telugu", "Urdu"],
+        "area": "112077 km²",
+        "population": "39,535,585",
+        "facts": [
+          "Known for its rich history and heritage.",
+          "Famous for its cuisine and IT industry."
+        ]
+      },
+      {
+        "name": "Tripura",
+        "capital": "Agartala",
+        "official_languages": ["Bengali", "Kokborok"],
+        "area": "10486 km²",
+        "population": "4,059,173",
+        "facts": [
+          "Known for its natural beauty and cultural diversity.",
+          "Famous for its temples and palaces."
+        ]
+      },
+      {
+        "name": "Uttar Pradesh",
+        "capital": "Lucknow",
+        "official_languages": ["Hindi", "Urdu"],
+        "area": "243286 km²",
+        "population": "199,812,341",
+        "facts": [
+          "Home to the Taj Mahal, a UNESCO World Heritage site.",
+          "Known for its rich cultural and historical significance."
+        ]
+      },
+      {
+        "name": "Uttarakhand",
+        "capital": "Dehradun",
+        "official_languages": ["Hindi", "English"],
+        "area": "53483 km²",
+        "population": "10,086,292",
+        "facts": [
+          "Known for its natural beauty and pilgrimage sites.",
+          "Home to the famous Char Dham Yatra."
+        ]
+      },
+      {
+        "name": "West Bengal",
+        "capital": "Kolkata",
+        "official_languages": ["Bengali", "Hindi", "English"],
+        "area": "88752 km²",
+        "population": "91,276,115",
+        "facts": [
+          "Known for its cultural heritage and literature.",
+          "Famous for Durga Puja festival."
+        ]
+      }
+    ]
+  }
+  
